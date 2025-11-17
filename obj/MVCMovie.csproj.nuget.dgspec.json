@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\MVC\\Movies\\MVCMovie\\MVCMovie.csproj": {}
+    "d:\\.NET\\MVC\\Movies\\MVCMovie\\MVCMovie.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\MVC\\Movies\\MVCMovie\\MVCMovie.csproj": {
+    "d:\\.NET\\MVC\\Movies\\MVCMovie\\MVCMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\MVC\\Movies\\MVCMovie\\MVCMovie.csproj",
+        "projectUniqueName": "d:\\.NET\\MVC\\Movies\\MVCMovie\\MVCMovie.csproj",
         "projectName": "MVCMovie",
-        "projectPath": "D:\\.NET\\MVC\\Movies\\MVCMovie\\MVCMovie.csproj",
+        "projectPath": "d:\\.NET\\MVC\\Movies\\MVCMovie\\MVCMovie.csproj",
         "packagesPath": "C:\\Users\\laxman.nangunuri\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\MVC\\Movies\\MVCMovie\\obj\\",
+        "outputPath": "d:\\.NET\\MVC\\Movies\\MVCMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laxman.nangunuri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,27 +45,27 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SQLite": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
